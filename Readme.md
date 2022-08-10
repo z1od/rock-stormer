@@ -15,3 +15,9 @@ This is a project of making MIDI footswitch for Guitar Rig 6.
 ### Scheme
 
 ![Scheme](./.src/pic2.jpg)
+![Scheme-photo](./.src/pic3.jpg)
+
+### Result
+
+<img src="./.src/pic4.jpeg" width="49.8%"> <img src="./.src/pic5.jpeg" width="49.8%">
+<img src="./.src/pic4.jpeg" width="49.8%">
